@@ -46,6 +46,7 @@
     "react-native-screens": "3.31.1",
     "react-native-section-alphabet-list": "^3.0.0",
     "react-native-tab-view": "^3.5.2",
+    "react-native-vector-icons": "^10.2.0",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
