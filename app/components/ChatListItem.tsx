@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
 	},
 	message: {
 		fontSize: 14,
-		color: (chat) => (chat.typing ? Colors.primary : '#8E8E93'),
+		// color: (chat) => (chat.typing ? Colors.primary : '#8E8E93'),
 		flex: 1,
 		marginRight: 8,
 	},
